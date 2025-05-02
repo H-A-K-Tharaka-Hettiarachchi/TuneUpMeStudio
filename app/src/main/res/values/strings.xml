@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TuneUpMe Studio</string>
+    <string name="google_maps_key">AIzaSyDkVQDmXW2lgpiHtNsop7O-6jnccFEftNQ</string>
+
+
+    <string name="log_admin_button">Log In</string>
+    <string name="log_email_input_layout_hint">User Name :</string>
+    <string name="log_password_input_layout_hint">Password :</string>
+
+    <string name="tune_up_me_partnership_request">Partnership Requests</string>
+
+    <string name="partnership_request_item_band_name_title">Band Name :</string>
+    <string name="partnership_request_item_band_email_title">Email :</string>
+    <string name="partnership_request_item_band_mobile_title">Mobile :</string>
+    <string name="partnership_request_item_view_button">View</string>
+</resources>

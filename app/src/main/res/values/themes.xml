@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TuneUpMeStudio" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="colorPrimary">@color/white</item>
+
+    </style>
+    <style name="Theme.TuneUpMeStudio." parent="Base.Theme.TuneUpMeStudio">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="Theme.TuneUpMeStudio.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TuneUpMeStudio.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TuneUpMeStudio.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.TuneUpMeStudio" parent="Base.Theme.TuneUpMeStudio" />
+</resources>
